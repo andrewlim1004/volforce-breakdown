@@ -1,7 +1,7 @@
 # SDVX Volforce Breakdown
 
 Calculates Sound Voltex Exceed Gear and Heavenly Haven Volforce for Asphyxia plugin save data.  
-Also written to prove how absurd the first Volforce algorithm used in Heavenly Haven actually was compared to Exceed Gear.
+Also written to prove how absurd and stupid the first Volforce algorithm used in Heavenly Haven actually was compared to Exceed Gear.
 
 This is intended to work with the Asphyxia plugin. 
 
